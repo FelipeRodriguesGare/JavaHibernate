@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Aula2_mapper:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Aula2_mapper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Aula2_mapper-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Aula2_mapper:war exploded" />
+    </root>
+  </artifact>
+</component>
